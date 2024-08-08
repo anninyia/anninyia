@@ -58,8 +58,6 @@ Gosto de resolver problemas e criar códigos divertidos e úteis, também gosto 
   - markdownlint
   - Modern Fortran
   - Path Intellisense
- 
-</details>
   - Pylance
   - Python (pack)
   - vscode-pdf
@@ -70,3 +68,4 @@ Gosto de resolver problemas e criar códigos divertidos e úteis, também gosto 
   - Dark Pink Theme
   - indent-rainbow
   - vscode-pets
+</details>
