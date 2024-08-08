@@ -10,7 +10,7 @@ Gosto de resolver problemas e criar códigos divertidos e úteis, também gosto 
 
 - Graduanda em Ciência da Computação pela **Universidade Federal do Pampa, Campus Alegrete** 👩🏻‍🎓
 - Atualmente aprofundando meu conhecimento em **Python, C/C++** e tendo curiosidades em **Java** 👨🏻‍💻
-- Tenho interesse nas áreas de **Programação Paralela, Segurança de Dados e Linguagens de Programação** 🖥️
+- Tenho interesse nas áreas de **Programação Paralela, Segurança de Dados, Linguagens de Programação e Teoria da Computação** 🖥️
 - Tenho facilidade em lidar com **Interação Humano-Computador** 🤠
 
 ![Gatinho Miau](https://media3.giphy.com/media/VOpYCHn6mSPKrlfRaC/200w.webp?cid=ecf05e47yfkacf0k8qr40wiea5yopm9mzqvb28boawpscq7m&ep=v1_videos_related&rid=200w.webp&ct=v)
