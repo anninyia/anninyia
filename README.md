@@ -39,7 +39,8 @@ Gosto de resolver problemas e criar códigos divertidos e úteis, também gosto 
 
 [![Anna-E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annavictoria2504@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anninyia/)
-[![CurriculoLattes](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://lattes.cnpq.br/3475539857505372)
+[![CurriculoLattes](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](http://lattes.cnpq.br/3475539857505372)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anninyia)
 
 </details>
 
