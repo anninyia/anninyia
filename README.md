@@ -1,4 +1,8 @@
+<div align="center">
+
 # Oii, é um prazer conhecer! 🥰​👋
+
+</div>
 
 Eu sou a eu sou a **Anna Victória Gonçalves**, uma jovem desenvolvedora que adora aprender coisas novas todos os dias. Não possuo tanta experiência com linguagens como `JavaScript`, por exemplo, mas posso aprender se for necessário! 😊
 
@@ -74,9 +78,18 @@ p/s: O do GitHub não é meu GitHub, até por que você já está nele; na verda
   - vscode-pets
 </details>
 
-## ---------------------- English Version ----------------------
+<div align="center">
+
+![Linha](https://clipart-library.com/images_k/line-divider-transparent/line-divider-transparent-1.png)
+
+</div>
+
+<div align="center">
 
 # Hey, nice to meet ya! 🥰​👋
+
+</div>
+
 I'm **Anna Victória Gonçalves**, a young developer who loves learning new things every day. I don't have as much experience with languages ​​like `JavaScript`, for example, but I can learn if necessary! 😊
 
 I like solving problems and creating fun and useful programs, I also like Databases (but I believe I should study this better).
