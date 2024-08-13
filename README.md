@@ -4,7 +4,7 @@
 
 </div>
 
-Eu sou a eu sou a **Anna Victória Gonçalves**, uma jovem desenvolvedora que adora aprender coisas novas todos os dias. Não possuo tanta experiência com linguagens como `JavaScript`, por exemplo, mas posso aprender se for necessário! 😊
+Eu sou a **Anna Victória Gonçalves**, uma jovem desenvolvedora que adora aprender coisas novas todos os dias. Não possuo tanta experiência com linguagens como `JavaScript`, por exemplo, mas posso aprender se for necessário! 😊
 
 Gosto de resolver problemas e criar programas divertidos e úteis, também gosto de Bancos de Dados (mas acredito que eu deveria estudar isso melhor).
 
