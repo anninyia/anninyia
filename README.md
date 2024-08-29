@@ -13,11 +13,11 @@
 <details>
   <summary><h2> Sobre mim </h2></summary>
   
-  - Graduanda em Ciência da Computação pela **Universidade Federal do Pampa, Campus Alegrete** 👩🏻‍🎓
-  - Atualmente aprofundando meu conhecimento em **Python, C/C++** e tendo curiosidades em **Java** 👨🏻‍💻
-  - Tenho interesse nas áreas de **Programação Paralela, Segurança de Dados, Linguagens de Programação e Teoria da Computação** 🖥️
-  - Tenho facilidade em lidar com **Interação Humano-Computador** 🤠
-  - Desenvolvendo projetos no **Laboratório de Estudos Avançados em Computação**(LEA) na **Unipampa - Alegrete** 🤩​
+  - Graduanda em Ciência da Computação pela **Universidade Federal do Pampa, Campus Alegrete**; 👩🏻‍🎓
+  - Atualmente aprofundando meu conhecimento em **Python, C/C++** e tendo curiosidades em **Java**; 👨🏻‍💻
+  - Tenho interesse nas áreas de **Programação Paralela, Segurança de Dados, Linguagens de Programação e Teoria da Computação**; 🖥️
+  - Tenho facilidade em lidar com **Interação Humano-Computador**; 🤠
+  - Desenvolvendo projetos no **Laboratório de Estudos Avançados em Computação**(LEA) na **Unipampa - Alegrete**; 🤩​
   - Fluente em Inglês e avançado em Espanhol! 👻​
 
   ![Gatinho Miau](https://media3.giphy.com/media/VOpYCHn6mSPKrlfRaC/200w.webp?cid=ecf05e47yfkacf0k8qr40wiea5yopm9mzqvb28boawpscq7m&ep=v1_videos_related&rid=200w.webp&ct=v)
@@ -37,7 +37,7 @@
   
   - **Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2024;
   - **Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional.** Apresentação de Trabalho/Seminário no Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE) 2023;
-  - **Avaliação de Diretivas Paralelas em uma Aplicação de Simulação de Secagem de Grãos.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2023;
+  - **Avaliação de Diretivas Paralelas em uma Aplicação de Simulação de Secagem de Grãos.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2023.
 
 </details>
 
@@ -171,11 +171,11 @@ Outros:
   
   <summary><h2> About me </h2></summary>
 
-  - Graduating in Computer Science from **Federal University of Pampa, Campus Alegrete** 👩🏻‍🎓
-  - Currently deepening my knowledge in **Python, C/C++** and having curiosities in **Java** 👨🏻‍💻
-  - I am interested in the areas of **Parallel Programming, Data Security, Programming Languages ​​and Computing Theory** 🖥️
-  - I have ease in dealing with **Human-Computer Interaction** 🤠
-  - Developing projects at the **Advanced Computer Studies Laboratory**(LEA) at **Unipampa - Alegrete** 🤩​
+  - Graduating in Computer Science from **Federal University of Pampa, Campus Alegrete**; 👩🏻‍🎓
+  - Currently deepening my knowledge in **Python, C/C++** and having curiosities in **Java**; 👨🏻‍💻
+  - I am interested in the areas of **Parallel Programming, Data Security, Programming Languages ​​and Computing Theory**; 🖥️
+  - I have ease in dealing with **Human-Computer Interaction**; 🤠
+  - Developing projects at the **Advanced Computer Studies Laboratory**(LEA) at **Unipampa - Alegrete**; 🤩​
   - Fluent in English and advanced in Spanish! 👻​
 
   ![Gatinho Miau](https://media3.giphy.com/media/VOpYCHn6mSPKrlfRaC/200w.webp?cid=ecf05e47yfkacf0k8qr40wiea5yopm9mzqvb28boawpscq7m&ep=v1_videos_related&rid=200w.webp&ct=v)
@@ -197,7 +197,7 @@ Outros:
 
   - **Optimization of Fluid Flow Programs in a Two-Dimensional Model.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2024;
   - **Optimization of Fluid Flow Programs in a Two-Dimensional Model.** Presentation of Work/Seminar at the International Teaching, Research and Extension Exhibition (SIEPE) 2023;
-  - **Evaluation of Parallel Directives in a Grain Drying Simulation Application.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2023;
+  - **Evaluation of Parallel Directives in a Grain Drying Simulation Application.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2023.
 
 </details>
 
@@ -265,11 +265,11 @@ Others:
 
 <details>
   
-  <summary><h2> Configurações da minha IDE </h2></summary>
+  <summary><h2> IDE Configs </h2></summary>
   
-  - **IDE usada**:
+  - **Used IDE**:
   
-    Atual:
+    Current:
 
     <div allign="center">  
       
@@ -277,7 +277,7 @@ Others:
     
     </div>
   
-    Outros:
+    Others:
 
     <div allign="center">
       
