@@ -27,7 +27,7 @@
 <details>
   <summary><h2> Projetos </h2></summary>
 
-  - **Simulação Eficiente de Secagem de Grãos** (2023-atual): Projeto certificado pela empresa Conselho Nacional de Desenvolvimento Científico e Tecnológico em 01/06/2024. Orientador: Claudio Schepke;
+  - **Simulação Eficiente de Secagem de Grãos** (2023-atual): Projeto certificado pela empresa Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Claudio Schepke;
   - **Motivação para Estudos em Engenharia e Computação: Automação Usando Arduino** (2022-2023): Programa de Desenvolvimento Acadêmico (PDA). Orientador: Claudio Schepke.
 
 </details>
@@ -35,6 +35,7 @@
 <details>
   <summary><h2> Produções </h2></summary>
   
+  - **Paralelização do NAS-PB Usando Do Concurrent.** Apresentação de Trabalho/Semiário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2025;
   - **Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2024;
   - **Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional.** Apresentação de Trabalho/Seminário no Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE) 2023;
   - **Avaliação de Diretivas Paralelas em uma Aplicação de Simulação de Secagem de Grãos.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2023.
@@ -142,10 +143,10 @@ Outros:
 
   - **Extensões de Personalização ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)**:
     - Better Comments;
-    - Catppuccin Icons for VSCode;
-    - Dark Pink Theme;
     - indent-rainbow;
-    - vscode-pets.
+    - Pink-Cat-Boo Theme;
+    - Stardew Pets;
+    - Stardew Valley Icon Theme.
 
 </details>
 
@@ -195,6 +196,7 @@ Outros:
   
   <summary><h2> Productions </h2></summary>
 
+  - **Parallelization of NAS-PB Using Do Concurrent.** Presentation of Work/Semi-Arum at the High Performance Regional School of the South Region (ERAD/RS) 2025;
   - **Optimization of Fluid Flow Programs in a Two-Dimensional Model.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2024;
   - **Optimization of Fluid Flow Programs in a Two-Dimensional Model.** Presentation of Work/Seminar at the International Teaching, Research and Extension Exhibition (SIEPE) 2023;
   - **Evaluation of Parallel Directives in a Grain Drying Simulation Application.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2023.
@@ -304,8 +306,8 @@ Others:
 
   - **Customization Extensions ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)**:
     - Better Comments;
-    - Catppuccin Icons for VSCode;
-    - Dark Pink Theme;
     - indent-rainbow;
-    - vscode-pets;
+    - Pink-Cat-Boo Theme;
+    - Stardew Pets;
+    - Stardew Valley Icon Theme.
 </details>
