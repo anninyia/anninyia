@@ -37,6 +37,7 @@
   
   - **Paralelização do NAS-PB Usando Do Concurrent.** Apresentação de Trabalho/Semiário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2025;
   - **Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2024;
+  - **Fortran DO CONCURRENT Evaluation in Multi-core for NAS-PB Conjugate Gradient and a Porous Media Application.** Apresentação de Trabalho/Seminário no XXV Simpósio em Sistemas Computacionais de Alto Desempenho(SSCAD) 2024;
   - **Otimização de Programas de Escoamento de Fluidos em um Modelo Bidimensional.** Apresentação de Trabalho/Seminário no Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE) 2023;
   - **Avaliação de Diretivas Paralelas em uma Aplicação de Simulação de Secagem de Grãos.** Apresentação de Trabalho/Seminário na Escola Regional de Alto Desempenho da Região Sul (ERAD/RS) 2023.
 
@@ -197,6 +198,7 @@ Outros:
   <summary><h2> Productions </h2></summary>
 
   - **Parallelization of NAS-PB Using Do Concurrent.** Presentation of Work/Semi-Arum at the High Performance Regional School of the South Region (ERAD/RS) 2025;
+  - **Fortran DO CONCURRENT Evaluation in Multi-core for NAS-PB Conjugate Gradient and a Porous Media Application.** Presentation of Work/Seminar at the XXV Symposium on High Performance Computing Systems (SSCAD) 2024;
   - **Optimization of Fluid Flow Programs in a Two-Dimensional Model.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2024;
   - **Optimization of Fluid Flow Programs in a Two-Dimensional Model.** Presentation of Work/Seminar at the International Teaching, Research and Extension Exhibition (SIEPE) 2023;
   - **Evaluation of Parallel Directives in a Grain Drying Simulation Application.** Presentation of Work/Seminar at the High Performance Regional School of the South Region (ERAD/RS) 2023.
